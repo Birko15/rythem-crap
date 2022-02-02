@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<TextureAtlas imagePath="bfCar.png">
+<TextureAtlas imagePath="BOYFRIEND.png">
 	<!-- Created with Adobe Animate version 20.0.3.25487 -->
 	<!-- http://www.adobe.com/products/animate.html -->
 	<SubTexture name="BF idle dance0000" x="0" y="0" width="399" height="541" frameX="0" frameY="-14" frameWidth="441" frameHeight="555"/>
