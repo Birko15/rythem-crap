@@ -2258,9 +2258,9 @@
 				"mustHitSection": true
 			}
 		],
-		"player2": "guy",
+		"player2": "dad",
 		"player3": null,
-		"song": "guy",
+		"song": "bopeebo",
 		"stage": "guystage",
 		"needsVoices": true,
 		"validScore": true,
