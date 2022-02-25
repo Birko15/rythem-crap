@@ -2258,10 +2258,10 @@
 				"mustHitSection": true
 			}
 		],
-		"player2": "guy",
+		"player2": "bopeebo",
 		"player3": null,
 		"song": "guy",
-		"stage": "guystage",
+		"stage": "stage",
 		"needsVoices": true,
 		"validScore": true,
 		"bpm": 190,
