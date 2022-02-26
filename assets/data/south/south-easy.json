@@ -3,7 +3,7 @@
 		"player1": "bf",
 		"events": [],
 		"gfVersion": "gf",
-		"player2": "bonnie",
+		"player2": "spooky",
 		"notes": [
 			{
 				"lengthInSteps": 16,
@@ -3283,7 +3283,7 @@
 		"player3": null,
 		"initialSpeed": 1.26,
 		"sliderVelocities": null,
-		"song": "lurking",
+		"song": "south",
 		"needsVoices": true,
 		"stage": "bon",
 		"validScore": true,
