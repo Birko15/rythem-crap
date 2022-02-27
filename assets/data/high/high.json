@@ -1,6 +1,6 @@
 {
 	"song": {
-		"player1": "guy",
+		"player1": "bf-car",
 		"notes": [
 			{
 				"sectionNotes": [
@@ -7278,13 +7278,13 @@
 				"mustHitSection": true
 			}
 		],
-		"player2": "matpat",
+		"player2": "mom",
 		"gfVersion": "PHONE",
 		"events": [],
 		"player3": null,
 		"initialSpeed": 1.215,
 		"sliderVelocities": null,
-		"song": "lore",
+		"song": "high",
 		"needsVoices": true,
 		"validScore": true,
 		"stage": "stage",
